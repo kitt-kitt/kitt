@@ -1,1 +1,1 @@
-<source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="readme/Frame 80.jpg">
+![Image alt](https://github.com/kitt-kitt/kitt/blob/main/Frame%2080.jpg)
