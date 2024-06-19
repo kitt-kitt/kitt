@@ -1,1 +1,1 @@
-<div><a href="https://solid-software.webflow.io/"><img src="readme/Frame 80.svg" width="100" height=500 ">
+<a href="https://solid-software.webflow.io/"><picture><source media="(min-width: 769px) and (prefers-color-scheme: dark)" srcset="readme/Frame 80.jpg">
