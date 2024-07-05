@@ -1,1 +1,3 @@
-<img src="https://github.com/kitt-kitt/kitt/blob/main/image/Frame%2080.svg">
+<div><img src="image/Frame 83.jpg" ></div>
+<div><a href="https://solid.software/"><img src="image/Group 3224.svg" width="22%" height=120 ></a></div>
+<div><a href="https://x.com/SolidSoftwareHQ"><img src="image/twitter.svg" width="19.5%" height=120 ></a><a href="https://www.facebook.com/SolidSoftwareHQ/?locale=ru_RU"><img src="image/fb.svg" width="19.5%" height=120 ></a><a href="https://www.instagram.com/solidsoftwarehq/"><img src="image/inst.svg" width="19.5%" height=120 ></a><a href="https://ua.linkedin.com/company/solidsoftware"><img src="image/linked.svg" width="19.5%" height=120 ></a></div>
