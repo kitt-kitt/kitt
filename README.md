@@ -1,3 +1,8 @@
-<div>
-<a href="https://github.com/GrahamTheDevRel/WCAG101"><picture><source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="image/Frame 83 light part left.jpg"><source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="image/light left mobile.jpg"><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="image/dark left mobile.jpg"><img src="image/Frame 83 dark part left.jpg"></picture></a><a href="https://tota11y.dev"><picture><source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="image/Frame 83 light part left.jpg"><source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="image/light right mobile.jpg"><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="image/dark right mobile.jpg"><img src="image/Frame 83 dark part right.jpg"></picture></a>
-</div>
+ <a href="https://solid.software/">
+      <picture>
+         <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="image/d kight left.jpg">
+         <source media="(max-width: 768px) and (prefers-color-scheme: light)" srcset="image/m light left.jpg">
+         <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="image/m dark left.jpg">
+         <img src="image/d dark left.jpg" alt="The Web Content Accessibility Guidelines (WCAG) are complicated, this project aims to simplify them!" title="WCAG 101 repository" width="50%">
+      </picture>
+   </a>
