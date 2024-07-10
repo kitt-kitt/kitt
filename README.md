@@ -1,3 +1,4 @@
+<div>
  <a href="https://solid.software/">
       <picture>
          <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="image/d kight left.jpg">
@@ -14,3 +15,4 @@
        <img src="image/d dark right.jpg" alt="Accessibility as a Service is only a click away, giving your team the accessibility training & knowledge it needs to deliver world class accessibility!" title="tota11y.dev - Accessibility as a Service" width="50%">
       </picture>
    </a>
+   </div>
