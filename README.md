@@ -1,8 +1,8 @@
 <div>
 <a href="https://solid.software/">
       <picture>
-         <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="image/github profile light.png">
-         <source media="(min-width: 768px) and (prefers-color-scheme: dark)" srcset="image/github profile dark.png">
+         <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="image/github_profile_light.png">
+         <source media="(min-width: 768px) and (prefers-color-scheme: dark)" srcset="image/github_profile_dark.png">
       </picture>
    </a>
 </div>
