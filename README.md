@@ -1,9 +1,9 @@
 <div>
     <a href="https://solid.software/">
         <picture>
-            <source srcset="image/github profile dark.png" media="(prefers-color-scheme: dark)">
-            <source srcset="image/github profile light.png" media="(prefers-color-scheme: light)">
-            <img src="image/github profile light.png" alt="GitHub Profile Image">
+            <source srcset="image/github_profile_dark.png" media="(prefers-color-scheme: dark)">
+            <source srcset="image/github_profile_light.png" media="(prefers-color-scheme: light)">
+            <img src="image/github_profile_light.png" alt="GitHub Profile Image">
         </picture>
    </a>
 </div>
